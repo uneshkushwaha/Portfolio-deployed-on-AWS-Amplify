@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Reduce_Size_by_800percent_Golang_Multi_Stage_Docker_Build",
+    "desc": "The main purpose of choosing a golang based applciation to demostrate this example is golang is a statically-typed programming language that does not require a runtime in the traditional sense. Unlike dynamically-typed languages like Python, Ruby, and JavaScript, which rely on a runtime environment to execute their code, Go compiles directly to machine code, which can then be executed directly by the operating system.              So the real advantage of multi stage docker build and distro less images can be understand with a drastic decrease in the Image size.",
+    "image": "multi-stage",
+    "category": "DevOps",
+    "links": {
+      "view": "https://www.linkedin.com/posts/unesh-kushwaha-4aa195224_reduceabrsizeabrbyabr800percentabrgolangabrmultiabrstageabrdockerabrbuild-activity-7185931943765590017-3ciL?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uneshkushwaha/Reduce_Size_by_800percent_Golang_Multi_Stage_Docker_Build"
+    }
+  },
+  {
+    "name": "Migrate EC2-instance-database-to-RDS-databse-instance",
+    "desc": "We are Migrating MariaDB database created on EC2 instance database to RDS database instance in different multiple zone.",
+    "image": "",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/posts/unesh-kushwaha-4aa195224_project2-github-aws-activity-7184794834056962048-r1GG?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uneshkushwaha/Migration-of-EC2-instance-database-to-RDS-databse-instance"
+    }
+  },
+  {
+    "name": "Deploying-a-Node-Js-Application-on-AWS-EC2",
+    "desc": "For this project, we'll have to set up an Elastic IP Address for our EC2 & that would be our DOMAIN. We will have to edit the inbound rules in the security group of our EC2, in order to allow traffic from our particular port.",
+    "image": "",
+    "category": "AWS",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7143844691912867840/",
+      "code": "https://github.com/uneshkushwaha/Deploying-a-Node-Js-Application-on-AWS-EC2"
+    }
+  },
+  {
+    "name": "GitHub-Actions-CI-file",
+    "desc": "Steps_to_create_a_CI_file_on_a_self_hosted_runner.",
+    "image": "github_actions",
+    "category": "DevOps",
+    "links": {
+      "view": "https://www.linkedin.com/posts/unesh-kushwaha-4aa195224_githubabractions-stepsabrtoabrcreateabraabrciabrfileabronabraabrselfabrhostedabrrunner-activity-7184807615380570113-4zrA?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uneshkushwaha/GitHub-Actions-CI-file?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "Blog_APP",
+    "desc": "Built a content management tool using MERN stack.",
+    "image": "blog_post",
+    "category": "Web_Development",
+    "links": {
+      "view": "https://www.linkedin.com/posts/unesh-kushwaha-4aa195224_folks-material-axios-activity-7115947186961489920-gPi-?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/uneshkushwaha/Bharat_Intern"
+    }
+  },
+  {
+    "name": "VideoConference app",
+    "desc": "Built a video conferecnce app uisng MERN stack.",
+    "image": "VideoConference",
+    "category": "Web_Development",
+    "links": {
+      "view": "https://www.linkedin.com/posts/unesh-kushwaha-4aa195224_folks-bharatintern-axios-activity-7115971877189152768-m2Lu/",
+      "code": "https://github.com/uneshkushwaha/Bharat_Intern"
+    }
+  },
+  {
+    "name": "Adminstratior_UI",
+    "desc": "Built a react adminstration UI to control the overall performacne on the app.",
+    "image": "Adminstratior_UI",
+    "category": "Web_Development",
+    "links": {
+      "view": "#",
+      "code": "Adminstratior_UI"
+    }
+  },
+  {
+    "name": "three-tier-architecture-demo",
+    "desc": "Deployed a three tier architecture on AWS.",
+    "image": "3-tier",
+    "category": "AWS",
+    "links": {
+      "view": "https://github.com/uneshkushwaha/three-tier-architecture-demo",
+      "code": "https://github.com/uneshkushwaha/three-tier-architecture-demo"
+    }
+  },
+  {
+    "name": "Imdb_clone",
+    "desc": "Built an Imdb clone with the help of react, nodejs, and mongodb",
+    "image": "imdbclone",
+    "category": "Web_Development",
+    "links": {
+      "view": "https://github.com/uneshkushwaha/React-Projects/tree/master/imdb_clone",
+      "code": "https://github.com/uneshkushwaha/React-Projects/tree/master/imdb_clone"
+    }
+  },
+  {
+    "name": "A Machine Learning Based Crop Diseases Detection and Management System",
+    "desc": "CropGuard aims to address the pressing issue of crop diseases through the development of a sophisticated Machine Learning-Based Crop Diseases Detection and Management System. The problem statement revolves around the prevalent challenges faced by farmers worldwide due to the devastating impact of plant diseases on agricultural yields. ",
+    "image": "",
+    "category": "Web_Development",
+    "links": {
+      "view": "https://github.com/uneshkushwaha/cropDiseaseDetection-FlutterApp",
+      "code": "https://github.com/uneshkushwaha/cropDiseaseDetection-FlutterApp"
+    }
+  },
+  {
+    "name": "A Machine Learning Based Crop Diseases Detection and Management System",
+    "image": "",
+    "category": "Web_Development",
+    "links": {
+      "view": "https://github.com/uneshkushwaha/cropDiseaseDetection-FlutterApp",
+      "code": "https://github.com/uneshkushwaha/cropDiseaseDetection-FlutterApp"
+    }
+  }
+]
